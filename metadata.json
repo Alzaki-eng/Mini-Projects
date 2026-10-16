@@ -1,0 +1,8 @@
+{
+  "name": "Complication Prediction",
+  "description": "A clean and simplistic AI-assisted clinical dashboard for predicting post-surgical complications using patient vitals and health records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
